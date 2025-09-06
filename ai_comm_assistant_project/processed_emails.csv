@@ -1,0 +1,181 @@
+sender,subject,body,date,sentiment,sentiment_indicators,priority,phone,alt_emails,product,requirements,metadata,draft_response
+eve@startup.io,Help required with account verification,"Do you support integration with third-party APIs? Specifically, I’m looking for CRM integration options.",2025-08-19 00:58:09,Neutral,,Not urgent,,eve@startup.io,Help,,"{""row_index"": 0, ""product_candidates"": [""Could"", ""This"", ""Help"", ""The"", ""General""]}","Hello Eve,
+
+I see you're contacting us about **Help**.
+Thank you for reaching out. We will look into this and get back to you with an update shortly. Alternative contact: eve@startup.io.
+
+If you need immediate assistance, reply to this email or call our support line.
+
+Best regards,
+Support Team"
+diana@client.co,General query about subscription,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",2025-08-25 00:58:09,Negative,issue;unable,Not urgent,,diana@client.co,Could,,"{""row_index"": 1, ""product_candidates"": [""Could"", ""This"", ""Help"", ""The"", ""General""]}","Hello Diana, I'm sorry to hear about the trouble, Diana. I understand how frustrating this must be.
+
+I see you're contacting us about **Could**.
+It looks like you're having trouble accessing your account. Please try resetting your password using the 'Forgot Password' link. If that doesn't work, let us know and we'll assist further. Alternative contact: diana@client.co.
+
+If you need immediate assistance, reply to this email or call our support line.
+
+Best regards,
+Support Team"
+eve@startup.io,Immediate support needed for billing error,"Hello, I wanted to understand the pricing tiers better. Could you share a detailed breakdown?",2025-08-20 12:58:09,Negative,error,Urgent,,eve@startup.io,Could,,"{""row_index"": 2, ""product_candidates"": [""Could"", ""This"", ""Help"", ""The"", ""General""]}","Hello Eve, I'm sorry to hear about the trouble, Eve. I understand how frustrating this must be.
+
+I see you're contacting us about **Could**.
+Regarding billing, please share the order/invoice ID and the last 4 digits of the card used; we'll investigate ASAP. Alternative contact: eve@startup.io.
+
+If you need immediate assistance, reply to this email or call our support line.
+
+Best regards,
+Support Team"
+alice@example.com,Urgent request: system access blocked,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",2025-08-21 21:58:09,Negative,issue;unable,Urgent,,alice@example.com,Could,,"{""row_index"": 3, ""product_candidates"": [""Could"", ""This"", ""Help"", ""The"", ""General""]}","Hello Alice, I'm sorry to hear about the trouble, Alice. I understand how frustrating this must be.
+
+I see you're contacting us about **Could**.
+It looks like you're having trouble accessing your account. Please try resetting your password using the 'Forgot Password' link. If that doesn't work, let us know and we'll assist further. Alternative contact: alice@example.com.
+
+If you need immediate assistance, reply to this email or call our support line.
+
+Best regards,
+Support Team"
+eve@startup.io,Question: integration with API,"Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.",2025-08-20 04:58:09,Negative,no;not;cannot,Not urgent,,eve@startup.io,The,,"{""row_index"": 4, ""product_candidates"": [""Could"", ""This"", ""Help"", ""The"", ""General""]}","Hello Eve, I'm sorry to hear about the trouble, Eve. I understand how frustrating this must be.
+
+I see you're contacting us about **The**.
+It looks like you're having trouble accessing your account. Please try resetting your password using the 'Forgot Password' link. If that doesn't work, let us know and we'll assist further. Alternative contact: eve@startup.io.
+
+If you need immediate assistance, reply to this email or call our support line.
+
+Best regards,
+Support Team"
+alice@example.com,Critical help needed for downtime,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",2025-08-18 08:58:09,Negative,issue;unable,Urgent,,alice@example.com,Could,,"{""row_index"": 5, ""product_candidates"": [""Could"", ""This"", ""Help"", ""The"", ""General""]}","Hello Alice, I'm sorry to hear about the trouble, Alice. I understand how frustrating this must be.
+
+I see you're contacting us about **Could**.
+It looks like you're having trouble accessing your account. Please try resetting your password using the 'Forgot Password' link. If that doesn't work, let us know and we'll assist further. Alternative contact: alice@example.com.
+
+If you need immediate assistance, reply to this email or call our support line.
+
+Best regards,
+Support Team"
+diana@client.co,Help required with account verification,There is a billing error where I was charged twice. This needs immediate correction.,2025-08-20 19:58:09,Negative,error,Not urgent,,diana@client.co,This,,"{""row_index"": 6, ""product_candidates"": [""Could"", ""This"", ""Help"", ""The"", ""General""]}","Hello Diana, I'm sorry to hear about the trouble, Diana. I understand how frustrating this must be.
+
+I see you're contacting us about **This**.
+Regarding billing, please share the order/invoice ID and the last 4 digits of the card used; we'll investigate ASAP. Alternative contact: diana@client.co.
+
+If you need immediate assistance, reply to this email or call our support line.
+
+Best regards,
+Support Team"
+diana@client.co,Support needed for login issue,I am facing issues with verifying my account. The verification email never arrived. Can you assist?,2025-08-23 06:58:09,Negative,issue,Not urgent,,diana@client.co,The,,"{""row_index"": 7, ""product_candidates"": [""Could"", ""This"", ""Help"", ""The"", ""General""]}","Hello Diana, I'm sorry to hear about the trouble, Diana. I understand how frustrating this must be.
+
+I see you're contacting us about **The**.
+It looks like you're having trouble accessing your account. Please try resetting your password using the 'Forgot Password' link. If that doesn't work, let us know and we'll assist further. Alternative contact: diana@client.co.
+
+If you need immediate assistance, reply to this email or call our support line.
+
+Best regards,
+Support Team"
+alice@example.com,General query about subscription,"Our servers are down, and we need immediate support. This is highly critical.",2025-08-26 02:58:09,Neutral,,Urgent,,alice@example.com,This,,"{""row_index"": 8, ""product_candidates"": [""Could"", ""This"", ""Help"", ""The"", ""General""]}","Hello Alice,
+
+I see you're contacting us about **This**.
+Thank you for reaching out. We will look into this and get back to you with an update shortly. Alternative contact: alice@example.com.
+
+If you need immediate assistance, reply to this email or call our support line.
+
+Best regards,
+Support Team"
+alice@example.com,Help required with account verification,"Do you support integration with third-party APIs? Specifically, I’m looking for CRM integration options.",2025-08-21 13:58:09,Neutral,,Not urgent,,alice@example.com,Help,,"{""row_index"": 9, ""product_candidates"": [""Could"", ""This"", ""Help"", ""The"", ""General""]}","Hello Alice,
+
+I see you're contacting us about **Help**.
+Thank you for reaching out. We will look into this and get back to you with an update shortly. Alternative contact: alice@example.com.
+
+If you need immediate assistance, reply to this email or call our support line.
+
+Best regards,
+Support Team"
+diana@client.co,Support needed for login issue,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",2025-08-26 15:58:09,Negative,issue;unable,Not urgent,,diana@client.co,Could,,"{""row_index"": 10, ""product_candidates"": [""Could"", ""This"", ""Help"", ""The"", ""General""]}","Hello Diana, I'm sorry to hear about the trouble, Diana. I understand how frustrating this must be.
+
+I see you're contacting us about **Could**.
+It looks like you're having trouble accessing your account. Please try resetting your password using the 'Forgot Password' link. If that doesn't work, let us know and we'll assist further. Alternative contact: diana@client.co.
+
+If you need immediate assistance, reply to this email or call our support line.
+
+Best regards,
+Support Team"
+alice@example.com,Help required with account verification,"Do you support integration with third-party APIs? Specifically, I’m looking for CRM integration options.",2025-08-24 05:58:09,Neutral,,Not urgent,,alice@example.com,Help,,"{""row_index"": 11, ""product_candidates"": [""Could"", ""This"", ""Help"", ""The"", ""General""]}","Hello Alice,
+
+I see you're contacting us about **Help**.
+Thank you for reaching out. We will look into this and get back to you with an update shortly. Alternative contact: alice@example.com.
+
+If you need immediate assistance, reply to this email or call our support line.
+
+Best regards,
+Support Team"
+eve@startup.io,Critical help needed for downtime,"Our servers are down, and we need immediate support. This is highly critical.",2025-08-21 19:58:09,Neutral,,Urgent,,eve@startup.io,This,,"{""row_index"": 12, ""product_candidates"": [""Could"", ""This"", ""Help"", ""The"", ""General""]}","Hello Eve,
+
+I see you're contacting us about **This**.
+Thank you for reaching out. We will look into this and get back to you with an update shortly. Alternative contact: eve@startup.io.
+
+If you need immediate assistance, reply to this email or call our support line.
+
+Best regards,
+Support Team"
+alice@example.com,Query about product pricing,There is a billing error where I was charged twice. This needs immediate correction.,2025-08-24 13:58:09,Negative,error,Not urgent,,alice@example.com,This,,"{""row_index"": 13, ""product_candidates"": [""Could"", ""This"", ""Help"", ""The"", ""General""]}","Hello Alice, I'm sorry to hear about the trouble, Alice. I understand how frustrating this must be.
+
+I see you're contacting us about **This**.
+Regarding billing, please share the order/invoice ID and the last 4 digits of the card used; we'll investigate ASAP. Alternative contact: alice@example.com.
+
+If you need immediate assistance, reply to this email or call our support line.
+
+Best regards,
+Support Team"
+alice@example.com,General query about subscription,I am facing issues with verifying my account. The verification email never arrived. Can you assist?,2025-08-26 01:58:09,Negative,issue,Not urgent,,alice@example.com,The,,"{""row_index"": 14, ""product_candidates"": [""Could"", ""This"", ""Help"", ""The"", ""General""]}","Hello Alice, I'm sorry to hear about the trouble, Alice. I understand how frustrating this must be.
+
+I see you're contacting us about **The**.
+Thank you for reaching out. We will look into this and get back to you with an update shortly. Alternative contact: alice@example.com.
+
+If you need immediate assistance, reply to this email or call our support line.
+
+Best regards,
+Support Team"
+alice@example.com,Immediate support needed for billing error,"Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.",2025-08-19 07:58:09,Negative,no;not;cannot;error,Not urgent,,alice@example.com,The,,"{""row_index"": 15, ""product_candidates"": [""Could"", ""This"", ""Help"", ""The"", ""General""]}","Hello Alice, I'm sorry to hear about the trouble, Alice. I understand how frustrating this must be.
+
+I see you're contacting us about **The**.
+It looks like you're having trouble accessing your account. Please try resetting your password using the 'Forgot Password' link. If that doesn't work, let us know and we'll assist further. Alternative contact: alice@example.com.
+
+If you need immediate assistance, reply to this email or call our support line.
+
+Best regards,
+Support Team"
+charlie@partner.org,Help required with account verification,"This is urgent – our system is completely inaccessible, and this is affecting our operations.",2025-08-18 00:58:09,Neutral,,Urgent,,charlie@partner.org,This,,"{""row_index"": 16, ""product_candidates"": [""Could"", ""This"", ""Help"", ""The"", ""General""]}","Hello Charlie,
+
+I see you're contacting us about **This**.
+Thank you for reaching out. We will look into this and get back to you with an update shortly. Alternative contact: charlie@partner.org.
+
+If you need immediate assistance, reply to this email or call our support line.
+
+Best regards,
+Support Team"
+diana@client.co,Request for refund process clarification,Could you clarify the steps involved in requesting a refund? I submitted one last week but have no update.,2025-08-22 17:58:09,Negative,no,Not urgent,,diana@client.co,Could,,"{""row_index"": 17, ""product_candidates"": [""Could"", ""This"", ""Help"", ""The"", ""General""]}","Hello Diana, I'm sorry to hear about the trouble, Diana. I understand how frustrating this must be.
+
+I see you're contacting us about **Could**.
+Regarding billing, please share the order/invoice ID and the last 4 digits of the card used; we'll investigate ASAP. Alternative contact: diana@client.co.
+
+If you need immediate assistance, reply to this email or call our support line.
+
+Best regards,
+Support Team"
+eve@startup.io,Query about product pricing,"Our servers are down, and we need immediate support. This is highly critical.",2025-08-22 09:58:09,Neutral,,Urgent,,eve@startup.io,This,,"{""row_index"": 18, ""product_candidates"": [""Could"", ""This"", ""Help"", ""The"", ""General""]}","Hello Eve,
+
+I see you're contacting us about **This**.
+Thank you for reaching out. We will look into this and get back to you with an update shortly. Alternative contact: eve@startup.io.
+
+If you need immediate assistance, reply to this email or call our support line.
+
+Best regards,
+Support Team"
+bob@customer.com,Urgent request: system access blocked,"Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.",2025-08-19 13:58:09,Negative,no;not;cannot,Urgent,,bob@customer.com,The,,"{""row_index"": 19, ""product_candidates"": [""Could"", ""This"", ""Help"", ""The"", ""General""]}","Hello Bob, I'm sorry to hear about the trouble, Bob. I understand how frustrating this must be.
+
+I see you're contacting us about **The**.
+It looks like you're having trouble accessing your account. Please try resetting your password using the 'Forgot Password' link. If that doesn't work, let us know and we'll assist further. Alternative contact: bob@customer.com.
+
+If you need immediate assistance, reply to this email or call our support line.
+
+Best regards,
+Support Team"
